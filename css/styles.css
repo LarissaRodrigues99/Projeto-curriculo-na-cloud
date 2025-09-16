@@ -10854,6 +10854,10 @@ h6,
 h1, .h1 {
   line-height: 1;
 }
+.custom-font {
+  font-family: 'Poppins', sans-serif;
+  font-weight: 50;
+}
 
 p.lead {
   font-size: 1.15rem;
